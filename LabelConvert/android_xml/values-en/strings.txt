@@ -1,0 +1,11 @@
+<resources>
+	<string name="SEARCH_FIELD_PLACEHOLDER">Search</string>
+	<string name="BUTTON_SEARCH">Search</string>
+	<string name="BUTTON_CONTINUE">Continue</string>
+	<string name="BUTTON_SUBMIT">Submit</string>
+	<string name="BUTTON_SELECT_ALL">Select all</string>
+	<string name="BUTTON_SELECT_NONE">Select none</string>
+	<string name="BUTTON_OK">OK</string>
+	<string name="BUTTON_CANCEL">Cancel</string>
+	<string name="BUTTON_CLOSE">Close";</string>
+</resources>

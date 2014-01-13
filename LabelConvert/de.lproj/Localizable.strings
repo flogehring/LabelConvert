@@ -1,0 +1,17 @@
+/* 
+  Localization.strings
+  Some Project
+
+  Created by Flo Gehring on 13.01.13
+  Copyright (c) Flo Gehring All rights reserved.
+*/
+
+"SEARCH_FIELD_PLACEHOLDER" = "Suche";
+"BUTTON_SEARCH" = "Suchen";
+"BUTTON_CONTINUE" = "Weiter";
+"BUTTON_SUBMIT" = "Absenden";
+"BUTTON_SELECT_ALL" = "Alle auswählen";
+"BUTTON_SELECT_NONE" = "Auswahl aufheben";
+"BUTTON_OK" = "OK";
+"BUTTON_CANCEL" = "Abbrechen";
+"BUTTON_CLOSE" = "Schließen";

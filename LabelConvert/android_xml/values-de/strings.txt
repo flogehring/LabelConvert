@@ -1,0 +1,11 @@
+<resources>
+	<string name="SEARCH_FIELD_PLACEHOLDER">Suche</string>
+	<string name="BUTTON_SEARCH">Suchen</string>
+	<string name="BUTTON_CONTINUE">Weiter</string>
+	<string name="BUTTON_SUBMIT">Absenden</string>
+	<string name="BUTTON_SELECT_ALL">Alle auswählen</string>
+	<string name="BUTTON_SELECT_NONE">Auswahl aufheben</string>
+	<string name="BUTTON_OK">OK</string>
+	<string name="BUTTON_CANCEL">Abbrechen</string>
+	<string name="BUTTON_CLOSE">Schließen";</string>
+</resources>
